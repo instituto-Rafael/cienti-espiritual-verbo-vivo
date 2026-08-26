@@ -1,758 +1,234 @@
 # Seven Methodological Models for CientiEspiritual Research
-## Comprehensive Framework for Integrative Spiritual-Scientific Investigation
+## Framework for Integrative Spiritual-Scientific Investigation
 
 ---
 
 ## OVERVIEW
 
-This document presents seven distinct yet complementary methodological models for conducting rigorous integrative spiritual-scientific research. Each model addresses different aspects of the CientiEspiritual framework and can be applied independently or in combination, depending on research questions and contexts.
+This document presents seven complementary methodological models for rigorous integrative spiritual-scientific research. The framework is intentionally substance-neutral and focuses on law, measurement, phenomenology, culture, clinical research ethics, evidence synthesis, and contemplative investigation.
 
 ---
 
 ## MODEL 1: CONSTITUTIONAL-LEGAL METHODOLOGY
 
 ### Purpose
-To establish legal protections and frameworks for spiritual-scientific research through systematic analysis of constitutional provisions, international conventions, and jurisprudence.
+Analyze legal protections and constraints relevant to spiritual-scientific research through constitutional provisions, international conventions, jurisprudence, and primary legal sources.
 
-### Theoretical Foundation
-- Constitutional hermeneutics
-- International human rights law
-- Legal pluralism theory
-- Comparative constitutional analysis
+### Core Steps
+1. Identify applicable constitutional provisions.
+2. Collect and verify primary case law.
+3. Review international instruments.
+4. Compare jurisdictions where useful.
+5. Separate factual holdings from interpretation.
+6. Produce traceable legal memoranda and compliance notes.
 
-### Research Steps
+### Validation
+- Primary-source verification.
+- Peer review by qualified legal researchers.
+- Date/version tracking of jurisprudence.
 
-**Step 1: Constitutional Text Analysis**
-- Identify relevant constitutional provisions
-- Apply textual interpretation methods
-- Consider framers' intent and historical context
-- Analyze structure and systematic integration
-
-**Step 2: Jurisprudential Analysis**
-- Collect relevant case law
-- Identify binding precedents (stare decisis)
-- Analyze judicial reasoning
-- Extract legal principles and tests
-
-**Step 3: International Law Integration**
-- Review applicable treaties and conventions
-- Assess customary international law
-- Examine soft law and declarations
-- Determine enforcement mechanisms
-
-**Step 4: Comparative Analysis**
-- Compare across jurisdictions
-- Identify best practices
-- Analyze convergence and divergence
-- Extract portable principles
-
-**Step 5: Synthesis and Application**
-- Develop integrated legal framework
-- Create protection strategies
-- Design compliance protocols
-- Establish monitoring mechanisms
-
-### Data Sources
-- Constitutional texts
-- Legislative history
-- Court decisions
-- International treaties
-- Legal scholarship
-- Government reports
-
-### Analysis Techniques
-- Doctrinal analysis
-- Precedent mapping
-- Rights balancing tests
-- Proportionality analysis
-- Systematic interpretation
-
-### Validation Methods
-- Peer review by legal scholars
-- Judicial comment or endorsement
-- Application in legal proceedings
-- Expert testimony acceptance
-
-### Outputs
-- Legal memoranda
-- Constitutional frameworks
-- Protection strategies
-- Compliance guidelines
-- Litigation materials
-
-### Example Application
-Analysis of Brazilian constitutional protections for CientiEspiritual practices, integrating CF Articles 5, 215-216, 231, OIT Convention 169, and supporting STF/STJ jurisprudence.
+### Example
+Analysis of Brazilian protections for freedom of conscience, scientific expression, cultural heritage, and indigenous knowledge.
 
 ---
 
 ## MODEL 2: QUANTUM-INFORMATIONAL METHODOLOGY
 
 ### Purpose
-To investigate consciousness phenomena using quantum mechanical principles and information theory frameworks, establishing physical foundations for spiritual-scientific integration.
+Test whether information-theoretic or quantum-mechanical models provide useful, falsifiable descriptions of measured phenomena.
 
-### Theoretical Foundation
-- Quantum mechanics
-- Information theory
-- Quantum biology
-- Integrated information theory
-- Observer effects
+### Core Steps
+1. Define the observable phenomenon.
+2. Specify mathematical variables and boundary conditions.
+3. Distinguish established physics from analogy.
+4. Design measurements and null hypotheses.
+5. Analyze uncertainty and alternative explanations.
+6. Replicate before elevating a claim.
 
-### Research Steps
+### Validation
+- Mathematical consistency.
+- Reproducible experiments.
+- Null-hypothesis testing.
+- Independent replication.
 
-**Step 1: Phenomenon Identification**
-- Define consciousness phenomenon of interest
-- Specify observables and measurement contexts
-- Identify relevant quantum principles
-- Establish boundary conditions
-
-**Step 2: Mathematical Modeling**
-- Formulate quantum mechanical models
-- Define Hilbert spaces and operators
-- Specify Hamiltonians and dynamics
-- Calculate information measures (entropy, integrated information)
-
-**Step 3: Experimental Design**
-- Design controlled experiments
-- Specify measurement protocols
-- Address decoherence challenges
-- Plan data collection
-
-**Step 4: Data Collection**
-- Execute experimental protocols
-- Record quantum measurements
-- Document environmental conditions
-- Maintain rigorous controls
-
-**Step 5: Analysis and Interpretation**
-- Apply quantum statistical methods
-- Calculate information theoretic measures
-- Test theoretical predictions
-- Interpret findings cautiously
-
-### Data Sources
-- Quantum measurements
-- Neural recordings
-- Behavioral assessments
-- Phenomenological reports
-- Environmental parameters
-
-### Analysis Techniques
-- Schrödinger equation solutions
-- Density matrix formalism
-- Quantum information measures
-- Decoherence modeling
-- Statistical quantum mechanics
-
-### Validation Methods
-- Experimental replication
-- Theoretical consistency checks
-- Peer review in physics journals
-- Cross-laboratory verification
-- Null hypothesis testing
-
-### Outputs
-- Theoretical models
-- Experimental findings
-- Mathematical frameworks
-- Predictive models
-- Physics journal publications
-
-### Example Application
-Modeling meditative states as coherent quantum processes in neural microtubules, with information integration measures correlating with reported phenomenology.
-
-### Limitations and Cautions
-- Quantum effects may not extend to brain scales (decoherence)
-- Avoid premature conclusions about quantum consciousness
-- Distinguish empirical findings from speculative interpretations
-- Maintain epistemic humility given theoretical uncertainties
+### Example
+Comparing information-complexity measures in neural recordings collected during baseline and controlled contemplative tasks.
 
 ---
 
 ## MODEL 3: NEUROPHENOMENOLOGICAL METHODOLOGY
 
 ### Purpose
-To integrate first-person phenomenological investigation with third-person neuroscientific measurement, bridging subjective experience and objective brain processes.
+Integrate first-person phenomenological reports with third-person neural and behavioral measurement.
 
-### Theoretical Foundation
-- Varela's neurophenomenology
-- Phenomenological philosophy (Husserl, Merleau-Ponty)
-- Cognitive neuroscience
-- Contemplative science
-
-### Research Steps
-
-**Step 1: Phenomenological Training**
-- Train participants in introspective techniques
-- Develop stable attentional capacities
-- Establish phenomenological vocabulary
-- Practice systematic self-observation
-
-**Step 2: Phenomenological Data Collection**
-- Conduct structured introspective sessions
-- Collect detailed first-person reports
-- Use phenomenological interviews
-- Document experiential structures
-
-**Step 3: Neural Measurement**
-- Record brain activity (fMRI, EEG, MEG)
-- Time-lock to phenomenological events
-- Measure multiple modalities simultaneously
-- Control for artifacts and confounds
-
-**Step 4: Mutual Constraint**
-- Use phenomenology to guide neural analysis
-- Use neural findings to refine phenomenological categories
-- Iterate between perspectives
-- Seek convergent validation
-
-**Step 5: Integrated Analysis**
-- Correlate phenomenological and neural patterns
-- Identify neural correlates of consciousness (NCCs)
-- Build integrative models
-- Test predictions across both domains
+### Core Steps
+1. Train participants in systematic self-observation.
+2. Establish a stable phenomenological vocabulary.
+3. Collect time-resolved first-person reports.
+4. Record neural or physiological signals where appropriate.
+5. Correlate reports and measurements without treating correlation as causation.
+6. Replicate across participants and laboratories.
 
 ### Data Sources
-- First-person reports
-- Phenomenological interviews
-- Neural recordings (fMRI, EEG, MEG)
-- Behavioral measurements
-- Psychophysical assessments
+- Structured interviews.
+- Practice logs.
+- EEG/fMRI/MEG where ethically and technically appropriate.
+- Behavioral and psychophysical measurements.
 
-### Analysis Techniques
-- Phenomenological analysis
-- Thematic coding
-- Neural signal processing
-- Correlation analysis
-- Machine learning classification
-
-### Validation Methods
-- Inter-subjective agreement on phenomenology
-- Replication of neural findings
-- Predictive validation
-- Cross-modal consistency
-- Expert phenomenologist review
-
-### Outputs
-- Phenomenological taxonomies
-- Neural correlates maps
-- Integrative theories
-- Training protocols
-- Neuroscience journal publications
-
-### Example Application
-Investigating jhana meditation states through trained meditators' detailed phenomenological reports correlated with fMRI and EEG signatures.
+### Example
+Studying well-defined meditation states using synchronized phenomenological reports and EEG measurements.
 
 ---
 
 ## MODEL 4: ETHNOGRAPHIC-PARTICIPATORY METHODOLOGY
 
 ### Purpose
-To document and understand spiritual-scientific practices within their cultural contexts through sustained engagement, participant observation, and collaborative research with communities.
+Document spiritual-scientific practices within their cultural settings through respectful, collaborative research.
 
-### Theoretical Foundation
-- Cultural anthropology
-- Participatory action research
-- Indigenous research methodologies
-- Ethnography of knowledge systems
+### Core Steps
+1. Obtain community permission and informed consent.
+2. Define boundaries for observation and publication.
+3. Conduct participant observation where appropriate.
+4. Use interviews and community archives.
+5. Analyze findings collaboratively.
+6. Return results to the community for review.
+7. Respect intellectual-property and benefit-sharing agreements.
 
-### Research Steps
+### Validation
+- Member checking.
+- Triangulation.
+- Community review.
+- Provenance of field records.
 
-**Step 1: Community Engagement**
-- Establish respectful relationships
-- Obtain community permission and consent
-- Clarify mutual expectations and benefits
-- Develop collaborative protocols
-
-**Step 2: Participant Observation**
-- Engage in community practices
-- Document observations systematically
-- Maintain reflexive awareness
-- Balance participation and observation
-
-**Step 3: In-depth Interviews**
-- Conduct semi-structured interviews
-- Use appropriate language and concepts
-- Respect confidentiality boundaries
-- Document diverse perspectives
-
-**Step 4: Collaborative Analysis**
-- Analyze data with community members
-- Validate interpretations collectively
-- Incorporate indigenous epistemologies
-- Co-produce knowledge
-
-**Step 5: Community Review and Benefit-Sharing**
-- Present findings to community
-- Obtain approval for dissemination
-- Ensure benefit-sharing
-- Maintain ongoing relationships
-
-### Data Sources
-- Field notes
-- Interview transcripts
-- Audio/video recordings
-- Material culture documentation
-- Community archives
-
-### Analysis Techniques
-- Grounded theory
-- Thematic analysis
-- Narrative analysis
-- Cultural domain analysis
-- Comparative ethnography
-
-### Validation Methods
-- Member checking
-- Community validation
-- Triangulation across sources
-- Peer debriefing
-- Prolonged engagement
-
-### Outputs
-- Ethnographic monographs
-- Community reports
-- Collaborative publications
-- Documentary materials
-- Applied recommendations
-
-### Ethical Considerations
-- Informed consent (individual and collective)
-- Intellectual property rights
-- Benefit-sharing agreements
-- Confidentiality protections
-- Cultural sensitivity
-
-### Example Application
-Multi-year ethnographic study of Amazonian ayahuasca traditions, documenting preparation practices, ceremonial protocols, and healing outcomes through collaborative research with indigenous practitioners.
+### Example
+Collaborative study of oral knowledge, music, symbolism, ecological practices, and ceremonial heritage in an indigenous or traditional community, without documenting controlled-substance preparation or consumption.
 
 ---
 
 ## MODEL 5: CLINICAL-THERAPEUTIC METHODOLOGY
 
 ### Purpose
-To evaluate safety, efficacy, and mechanisms of integrative spiritual-scientific therapeutic interventions through rigorous clinical research protocols.
+Evaluate safety and efficacy of non-pharmacological integrative interventions through rigorous clinical research.
 
-### Theoretical Foundation
-- Clinical trial methodology
-- Evidence-based medicine
-- Integrative healthcare models
-- Psychotherapy research
-
-### Research Steps
-
-**Step 1: Intervention Development**
-- Define therapeutic intervention
-- Develop standardized protocols
-- Create training materials
-- Pilot test procedures
-
-**Step 2: Study Design**
-- Choose appropriate design (RCT, open-label, observational)
-- Define inclusion/exclusion criteria
-- Select outcome measures
-- Plan statistical analysis
-
-**Step 3: Ethical Review and Registration**
-- Obtain IRB/ethics committee approval
-- Register trial in public database
-- Establish data safety monitoring
-- Ensure informed consent processes
-
-**Step 4: Participant Recruitment and Intervention**
-- Recruit eligible participants
-- Conduct baseline assessments
-- Deliver intervention per protocol
-- Monitor safety and adherence
-
-**Step 5: Data Collection and Analysis**
-- Collect outcome data
-- Conduct follow-up assessments
-- Analyze per protocol and intention-to-treat
-- Report adverse events
-
-**Step 6: Dissemination**
-- Publish in peer-reviewed journals
-- Present at conferences
-- Inform clinical practice
-- Guide policy development
-
-### Data Sources
-- Clinical assessments
-- Questionnaires and scales
-- Biological markers
-- Phenomenological reports
-- Adverse event reports
-
-### Analysis Techniques
-- Statistical hypothesis testing
-- Effect size calculation
-- Survival analysis
-- Mixed-effects modeling
-- Qualitative thematic analysis
-
-### Validation Methods
-- Replication studies
-- Meta-analysis inclusion
-- External validation
-- Long-term follow-up
-- Independent assessment
-
-### Outputs
-- Clinical trial reports
-- Medical journal publications
-- Treatment guidelines
-- Training protocols
-- Regulatory submissions
-
-### Example Application
-Randomized controlled trial of psilocybin-assisted psychotherapy for treatment-resistant depression, with spiritual experience as predictor of therapeutic outcome.
+### Core Steps
+1. Define the intervention precisely.
+2. Select appropriate study design.
+3. Establish inclusion/exclusion criteria.
+4. Obtain ethics approval and informed consent.
+5. Pre-register outcomes and statistical analysis where appropriate.
+6. Monitor safety and adverse events.
+7. Report results transparently, including negative findings.
 
 ### Quality Standards
-- CONSORT guidelines for RCTs
-- Good Clinical Practice (GCP) standards
-- Transparent reporting
-- Pre-registration of protocols
-- Open data sharing where appropriate
+- Good Clinical Practice where applicable.
+- CONSORT for randomized trials.
+- Transparent reporting.
+- Independent replication.
+
+### Example
+Randomized study of a structured meditation-and-breathing program for stress reduction, with predefined psychological and physiological outcomes.
 
 ---
 
 ## MODEL 6: BIBLIOMETRIC-SYNTHESIS METHODOLOGY
 
 ### Purpose
-To systematically review, synthesize, and evaluate existing research literature across multiple disciplines, identifying patterns, gaps, and integration opportunities.
+Systematically review and synthesize literature across disciplines while preserving provenance and evidence quality.
 
-### Theoretical Foundation
-- Systematic review methodology
-- Bibliometric analysis
-- Meta-analysis techniques
-- Interdisciplinary synthesis
-
-### Research Steps
-
-**Step 1: Question Formulation**
-- Define research questions (PICO framework)
-- Specify inclusion/exclusion criteria
-- Identify relevant databases
-- Develop search strategy
-
-**Step 2: Literature Search**
-- Execute database searches
-- Screen titles and abstracts
-- Retrieve full texts
-- Track search process (PRISMA)
-
-**Step 3: Quality Assessment**
-- Apply quality criteria
-- Assess bias risk
-- Rate evidence level
-- Document assessments
-
-**Step 4: Data Extraction**
-- Extract relevant data systematically
-- Code study characteristics
-- Document findings
-- Resolve disagreements
-
-**Step 5: Synthesis and Analysis**
-- Conduct meta-analysis (if appropriate)
-- Perform thematic synthesis
-- Identify patterns and gaps
-- Assess heterogeneity
-
-**Step 6: Interpretation and Reporting**
-- Synthesize findings
-- Assess strength of evidence
-- Identify research needs
-- Report per PRISMA guidelines
-
-### Data Sources
-- Academic databases (PubMed, Scopus, Web of Science)
-- Google Scholar
-- Specialized databases
-- Grey literature
-- Reference lists
-
-### Analysis Techniques
-- Meta-analysis (statistical pooling)
-- Narrative synthesis
-- Thematic analysis
-- Bibliometric network analysis
-- Citation analysis
-
-### Validation Methods
-- Dual independent screening
-- Inter-rater reliability
-- Sensitivity analyses
-- Funnel plots for bias
-- Expert consultation
-
-### Outputs
-- Systematic reviews
-- Meta-analyses
-- Evidence syntheses
-- Research gap analyses
-- Clinical guidelines
-
-### Example Application
-Systematic review and meta-analysis of meditation interventions for mental health outcomes, with subgroup analysis by meditation type and spiritual orientation.
+### Core Steps
+1. Define the research question and inclusion criteria.
+2. Build a reproducible search strategy.
+3. Screen records independently.
+4. Assess risk of bias and evidence quality.
+5. Extract data into a traceable schema.
+6. Perform meta-analysis only when justified.
+7. Report uncertainty and research gaps.
 
 ### Quality Standards
-- PRISMA reporting guidelines
-- Cochrane methodology
-- GRADE evidence assessment
-- Pre-registration (PROSPERO)
-- Conflict of interest disclosure
+- PRISMA where applicable.
+- GRADE or suitable evidence-assessment framework.
+- Pre-registration when appropriate.
+- Conflict-of-interest disclosure.
+
+### Example
+Systematic review of meditation interventions and mental-health outcomes, stratified by intervention type and study quality.
 
 ---
 
 ## MODEL 7: CONTEMPLATIVE-EXPERIMENTAL METHODOLOGY
 
 ### Purpose
-To investigate consciousness through disciplined first-person experimentation using contemplative practices as research instruments, generating reproducible phenomenological findings.
+Investigate consciousness using disciplined, non-pharmacological contemplative practices as first-person research instruments.
 
-### Theoretical Foundation
-- Contemplative science
-- Buddhist epistemology
-- Phenomenological investigation
-- State-specific sciences (Charles Tart)
+### Core Steps
+1. Establish stable contemplative training.
+2. Define specific phenomenological questions.
+3. Use repeatable observation protocols.
+4. Document experiences immediately and systematically.
+5. Compare observations across trained participants.
+6. Generate hypotheses testable by third-person methods.
 
-### Research Steps
+### Validation
+- Intersubjective agreement.
+- Replication by trained practitioners.
+- Cross-checking with behavioral or physiological measures.
+- Explicit separation of observation and metaphysical interpretation.
 
-**Step 1: Contemplative Training**
-- Establish stable meditation practice
-- Develop attentional stability
-- Cultivate introspective clarity
-- Learn phenomenological vocabulary
-
-**Step 2: Experimental Design**
-- Define phenomenological research questions
-- Specify contemplative methods
-- Design observation protocols
-- Plan systematic documentation
-
-**Step 3: Contemplative Investigation**
-- Conduct disciplined contemplative practice
-- Make systematic observations
-- Document experiences immediately
-- Maintain research journal
-
-**Step 4: Intersubjective Validation**
-- Share findings with other contemplatives
-- Compare observations
-- Identify commonalities and differences
-- Refine phenomenological categories
-
-**Step 5: Theoretical Integration**
-- Connect findings to existing theories
-- Develop new theoretical frameworks
-- Generate testable hypotheses
-- Propose third-person validations
-
-**Step 6: Dissemination**
-- Publish phenomenological reports
-- Share methodological protocols
-- Train other researchers
-- Contribute to contemplative science
-
-### Data Sources
-- Personal practice logs
-- Phenomenological reports
-- Research journals
-- Teacher consultations
-- Group discussions
-
-### Analysis Techniques
-- Phenomenological reduction
-- Thematic analysis
-- Pattern identification
-- Comparative phenomenology
-- Theoretical modeling
-
-### Validation Methods
-- Intersubjective agreement
-- Traditional lineage validation
-- Third-person correlates
-- Replication by others
-- Triangulation with theory
-
-### Outputs
-- Phenomenological reports
-- Contemplative maps
-- Training curricula
-- Theoretical models
-- Consciousness studies publications
-
-### Example Application
-Systematic investigation of jhana absorption states through intensive meditation retreat, documenting phenomenological progressions and comparing with traditional Buddhist descriptions.
-
-### Quality Criteria
-- Adequate training (typically years)
-- Systematic documentation
-- Intersubjective validation
-- Theoretical coherence
-- Replicability by trained practitioners
-
-### Challenges
-- Time-intensive training requirements
-- Individual variation
-- Language limitations for ineffable experiences
-- Academic acceptance barriers
-- Balancing rigor and spontaneity
+### Example
+Longitudinal investigation of attentional absorption during meditation, with standardized logs and independent coding of reported phenomenology.
 
 ---
 
-## INTEGRATIVE APPLICATION: MULTI-METHOD RESEARCH DESIGN
+## INTEGRATIVE MULTI-METHOD DESIGN
 
-### Combining Methods for Maximum Insight
+The seven models can be combined without collapsing their epistemic boundaries.
 
-The seven models are designed for integration. A comprehensive CientiEspiritual research program might employ:
+### Example Integrated Study: Contemplative Practice and Well-Being
 
-**Example Integrated Study: Ayahuasca and Healing**
+1. **Constitutional-Legal**: map research, privacy, cultural, and publication obligations.
+2. **Ethnographic-Participatory**: document community context and meaning.
+3. **Clinical-Therapeutic**: evaluate predefined non-pharmacological outcomes.
+4. **Neurophenomenological**: relate first-person reports to neural or physiological measures.
+5. **Quantum-Informational**: test only clearly specified mathematical/information models.
+6. **Bibliometric-Synthesis**: compare results with the existing evidence base.
+7. **Contemplative-Experimental**: generate disciplined first-person observations.
 
-1. **Constitutional-Legal (Model 1)**: Establish legal framework for research, ensuring compliance and protection
-2. **Ethnographic-Participatory (Model 4)**: Document traditional practices through community collaboration
-3. **Clinical-Therapeutic (Model 5)**: Conduct clinical trials measuring therapeutic outcomes
-4. **Neurophenomenological (Model 3)**: Correlate subjective experiences with neural measurements
-5. **Quantum-Informational (Model 2)**: Model consciousness changes using information theory
-6. **Bibliometric-Synthesis (Model 6)**: Review existing research literature systematically
-7. **Contemplative-Experimental (Model 7)**: First-person investigation by trained practitioners
-
-### Triangulation Strategy
-
-**Convergent Validation**: Findings supported across multiple methodologies gain stronger evidential status
-
-**Complementary Insights**: Different methods reveal different aspects of the phenomenon
-
-**Contradiction Resolution**: Discrepancies prompt deeper investigation and theoretical refinement
-
-### Practical Considerations
-
-**Resource Requirements**: Multi-method approaches demand significant time, funding, and expertise
-
-**Team Composition**: Interdisciplinary teams with diverse methodological expertise
-
-**Ethical Coordination**: Unified ethical framework across all methods
-
-**Data Integration**: Plan for synthesizing diverse data types
-
-**Publication Strategy**: Multiple publications targeting different disciplinary audiences
+### Triangulation Rules
+- Agreement across methods increases confidence but does not by itself prove causation.
+- Contradictions are retained as data rather than forced into convergence.
+- Each claim carries its evidence class, uncertainty, provenance, and falsification path.
 
 ---
 
-## METHODOLOGICAL INNOVATION AND EVOLUTION
+## GOVERNANCE INVARIANTS
 
-### Emerging Methods
-
-**Digital Phenomenology**: Using digital tools for experience sampling and documentation
-
-**Machine Learning**: Pattern detection in complex phenomenological and neural datasets
-
-**Virtual Reality**: Controlled experimental environments for consciousness research
-
-**Blockchain**: Secure, transparent data sharing in sensitive research
-
-**Citizen Science**: Crowd-sourced contemplative research
-
-### Future Directions
-
-**Standardization**: Developing consensus protocols for integrative research
-
-**Training Programs**: Creating formal education in integrative methodologies
-
-**Funding Mechanisms**: Establishing funding streams for multi-method research
-
-**Institutional Support**: Building academic centers for integrative research
-
-**Policy Development**: Creating supportive regulatory frameworks
+- Observation ≠ interpretation.
+- Correlation ≠ causation.
+- Symbolic model ≠ established physical mechanism.
+- Cultural testimony ≠ laboratory measurement.
+- Legal argument ≠ scientific validation.
+- Hypothesis ≠ evidence.
+- Missing evidence remains an explicit gap.
 
 ---
 
-## ETHICAL FRAMEWORK ACROSS ALL MODELS
+## OUTPUTS
 
-### Universal Ethical Principles
-
-1. **Respect for Persons**: Autonomy, informed consent, vulnerability protection
-2. **Beneficence**: Maximize benefits, minimize harms
-3. **Justice**: Fair distribution of research burdens and benefits
-4. **Cultural Respect**: Honor indigenous knowledge and practices
-5. **Environmental Responsibility**: Sustainable research practices
-
-### Specific Ethical Challenges
-
-**Model 1 (Legal)**: Attorney-client privilege, political neutrality
-**Model 2 (Quantum)**: Speculative interpretation avoidance
-**Model 3 (Neurophenomenological)**: Informed consent for neural monitoring
-**Model 4 (Ethnographic)**: Cultural appropriation prevention
-**Model 5 (Clinical)**: Participant safety, proper medical oversight
-**Model 6 (Bibliometric)**: Citation accuracy, credit attribution
-**Model 7 (Contemplative)**: Spiritual emergency support, qualified guidance
-
----
-
-## QUALITY ASSURANCE
-
-### Cross-Method Quality Criteria
-
-**Rigor**: Systematic procedures, careful documentation
-**Transparency**: Clear methods reporting, open data
-**Replicability**: Sufficient detail for reproduction
-**Validity**: Appropriate for research questions
-**Reliability**: Consistent results across applications
-**Ethics**: Proper oversight and participant protection
-
-### Continuous Improvement
-
-- Regular methodological reviews
-- Incorporation of feedback
-- Adaptation to new technologies
-- Response to critiques
-- Evolution based on findings
+Depending on the model, outputs may include:
+- Legal memoranda.
+- Research protocols.
+- Phenomenological taxonomies.
+- Ethnographic reports.
+- Clinical reports.
+- Systematic reviews.
+- Mathematical models.
+- Evidence registries and provenance records.
 
 ---
 
 ## CONCLUSION
 
-These seven methodological models provide comprehensive toolkit for CientiEspiritual research. Each model has distinct strengths and appropriate applications. Integration across methods enables robust, multifaceted understanding of consciousness phenomena that neither purely spiritual nor purely materialist approaches can achieve alone.
+The seven-model framework supports transdisciplinary research while preserving methodological boundaries. Its central requirement is traceability: every claim should identify its observation source, method, uncertainty, evidence status, and next falsifiable test.
 
-The framework is living and evolving, inviting contributions from researchers worldwide.
-
----
-
-**Document Version**: 1.0  
-**Last Updated**: January 2026  
-**Maintained By**: Instituto Rafael Research Team  
-**Contact**: research@cientiespiritual.org
-
----
-
-## APPENDIX: METHODOLOGICAL TRAINING RESOURCES
-
-### Recommended Training Paths
-
-**Model 1**: Law school, constitutional law courses, legal research training
-**Model 2**: Physics PhD, quantum mechanics, information theory
-**Model 3**: Neuroscience training + phenomenology seminars + meditation practice
-**Model 4**: Anthropology training + indigenous studies + language learning
-**Model 5**: Clinical degree + research methods + therapeutic training
-**Model 6**: Research methods courses + literature review training + meta-analysis
-**Model 7**: Years of contemplative practice + phenomenological training + teacher guidance
-
-### Institutional Programs
-
-- Mind & Life Institute: Contemplative science
-- Center for Healthy Minds (UW-Madison): Meditation research
-- CIIS (California Institute of Integral Studies): Transpersonal psychology
-- Various universities: Consciousness studies programs
-
-### Online Resources
-
-- Coursera: Research methods, neuroscience
-- FutureLearn: Mindfulness courses
-- PubMed: Medical literature access
-- arXiv: Physics preprints
-- Ethnographic databases
-- Legal databases (Westlaw, LexisNexis)
-
----
-
-**END OF METHODOLOGICAL FRAMEWORK**
+**Document Status**: Cleaned Methodological Version  
+**Version**: 1.1
